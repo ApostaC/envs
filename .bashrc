@@ -124,4 +124,3 @@ export MODULEPATH=/datamirror/gpu-ffmpeg/install/share/modulefiles:${HOME}/.loca
 export PATH=${HOME}/.local/bin:${WORK}/local/common/bin:${PATH}
 export LD_LIBRARY_PATH=${WORK}/local/common/lib:${LD_LIBRARY_PATH}
 export CPATH=${WORK}/local/common/include:${WORK}/local/common/include/ncurses:${CPATH}
-export JAVA_HOME=`/usr/libexec/java_home -v 1.8`
